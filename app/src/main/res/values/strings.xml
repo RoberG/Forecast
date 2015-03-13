@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Forecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_map">Map</string>
+    <string name="action_share">Share</string>
+
+
+
+    <string-array name="weekForecast">
+        <item>1 - Soleado - 19-30</item>
+        <item>2 - No soleado - 20</item>
+        <item>3 - puede que soleado - 1930</item>
+        <item>4 - Quién sabe si soleado - 2323</item>
+        <item>5 - Lluuueeeeveeee - 19-30</item>
+        <item>6 - Llueva máááás que antes - 2222</item>
+        <item>7 - Me he mojado porque llueve - 7777</item>
+        <item>8 - Hace fríííííío - 88888</item>
+
+    </string-array>
+
+
+</resources>
